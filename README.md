@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pjm8765
 - 👀 I’m interested in making my life as easy as possible
-- 🌱 I’m currently learning Django and Xamarin
+- 🌱 I’m back in the land of sanity...sorry, ASP.NET.
 - 💞️ I’m looking to collaborate on eating Donuts
 - 📫 How to reach me ...whistle Smoke on the Water.  I won't respond, but its a great way to pass time.
 
